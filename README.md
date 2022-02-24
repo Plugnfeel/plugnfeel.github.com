@@ -1,2 +1,1 @@
-Web:
-plugnfeel.github.com
+Plugnfeel.github.com
